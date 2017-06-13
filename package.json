@@ -1,0 +1,23 @@
+{
+  "name": "structure-hook",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-james-watson/structure-hook.git"
+  },
+  "keywords": [
+    "structure",
+    "hook"
+  ],
+  "author": "Tom Watson <tom@tomjwatson.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tom-james-watson/structure-hook/issues"
+  },
+  "homepage": "https://github.com/tom-james-watson/structure-hook#readme"
+}
